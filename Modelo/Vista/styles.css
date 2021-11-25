@@ -1,0 +1,32 @@
+footer{
+
+  
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 100%;
+  
+}
+
+body{
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background: linear-gradient(90deg, #5AFF78 0%, #5ADCFF 100%);
+
+}
+
+
+
+footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
+
+}
