@@ -48,7 +48,7 @@
                     $resultado = $con->query($consulta);
 
 
-                    var_dump($resultado);
+                    
 
                     echo "<table border='1' align='center'>
                         <tr bgcolor='#E6E6E6'>
