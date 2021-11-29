@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-
-<body>
-
-
-
   <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -114,7 +100,7 @@
 
   <?php
   include "../Modelo/ABML.php";
-  include "template.php";
+ 
 
   // Obtengo los datos enviados por el Formulario
   if (isset($_POST['txt_nom'])) {
